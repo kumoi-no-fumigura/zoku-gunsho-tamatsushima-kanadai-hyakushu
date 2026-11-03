@@ -1929,6 +1929,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 15,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-tamatsushima-kanadai-hyakushu",
   "work": "玉津島社法楽仮名題百首和歌",
@@ -1941,7 +1945,7 @@
   "blocks": 15,
   "chars": 4047,
   "poems": 96,
-  "yaku": 0,
+  "yaku": 15,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T08:56:00+09:00"
